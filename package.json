@@ -1,6 +1,6 @@
 {
   "name": "@imcatzilla/ghost-sso-header",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Header SSO Adapter for Ghost",
   "main": "index.js",
   "scripts": {
