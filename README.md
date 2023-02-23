@@ -1,4 +1,6 @@
-> **Warning! Before using this adapter please carefully read "Caveats" section below!**
+> **Warning**
+>
+> Before using this adapter please carefully read [Caveats](#caveats) section below
 
 # ghost-sso-header
 Header SSO Adapter for Ghost
@@ -47,7 +49,7 @@ or use environment variables as described in Ghost [Configuration](https://ghost
 
 ### Docker
 
-Follow steps 1 and 3 from "Linux" section, and mount adapter as volume in your `docker-compose.yml`:
+Follow steps 1 and 3 from [Linux](#linux) section, and mount adapter as volume in your `docker-compose.yml`:
 
 ```yaml
 services:
