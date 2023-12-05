@@ -7,7 +7,7 @@ Header SSO Adapter for Ghost
 
 ## Prerequisites
 
-This adapter is written for Ghost version 5.35.0, compatability with other versions is unknown
+This adapter is written for Ghost version 5.75.0, compatibility with other versions is unknown
 
 Your load balancer (reverse proxy, API gateway, etc) needs to add request header with user email or user object as JSON string
 

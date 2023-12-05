@@ -1,6 +1,6 @@
 const jp = require('../../../../current/node_modules/jsonpath')
 
-const Base = require('../../../../current/core/server/adapters/sso/Base')
+const Base = require('../../../../current/core/server/adapters/sso/SSOBase')
 const User = require('../../../../current/core/server/models/user').User
 
 module.exports = class HeaderSSOAdapter extends Base {
